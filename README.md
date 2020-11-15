@@ -10,7 +10,7 @@ Using the dataset I analyzed what campaign outcomes for plays were successful, w
 ### Analysis of Outcomes Based on Launch Date
 The data was sorted to create a pivot table showing the outcomes for theater projects for each month.
 ### Analysis of Outcomes Based on Goals
-The data was analyzed to chart the relationship betweenthe goal-amount ranges and the project outcomes.
+The data was analyzed to chart the relationship between the goal-amount ranges and the project outcomes.
 ### Challenges and Difficulties Encountered
 I had problems writing the formulas correctly so that it would pull the right data.
 ## Results
