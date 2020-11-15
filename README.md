@@ -16,12 +16,12 @@ I had problems writing the formulas correctly so that it would pull the right da
 ## Results
 I would recommend to Louise that if she were to launch a kickstarter campaign for her play she should start it in May with a goal of less than $1000. Historically that has been when plays have been most successful.
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-Based on the data, the best time to launch would be in May or June. May had a 67% success rate while June had a 65% success rate.
-The highest failure rate was in December with 47% of projects failing.
+- Based on the data, the best time to launch would be in May or June. May had a 67% success rate while June had a 65% success rate.
+- The highest failure rate was in December with 47% of projects failing.
 - What can you conclude about the Outcomes based on Goals?
-Based on the data, the funding goal with the highest success rate was less than $1000
+- Based on the data, the funding goal with the highest success rate was less than $1000
 - What are some limitations of this dataset?
-The success of a play isn't solely based on the month and how much money was raised. Where the campaign is launched could also determine the outcome.
+- The success of a play isn't solely based on the month and how much money was raised. Where the campaign is launched could also determine the outcome.
 - What are some other possible tables and/or graphs that we could create?
-We can look at which countries had the most failed plays in the year 2014.
-We could create a graph showing the correlation between staff picks and successful tabletop games.
+- We can look at which countries had the most failed plays in the year 2014.
+- We could create a graph showing the correlation between staff picks and successful tabletop games.
